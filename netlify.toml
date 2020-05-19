@@ -3,6 +3,6 @@
   publish = "dist"
 
 [[redirects]]
-  from = "/"
+  from = "/*"
   to = "https://tinytools.design/ratio"
   status = 301
