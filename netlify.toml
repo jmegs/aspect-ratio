@@ -3,6 +3,11 @@
   publish = "dist"
 
 [[redirects]]
-  from = "/*"
+  from = "https://aspect.netlify.app"
+  to = "https://tinytools.design/ratio"
+  status = 301
+
+[[redirects]]
+  from = "https://aspect.netlify.com"
   to = "https://tinytools.design/ratio"
   status = 301
